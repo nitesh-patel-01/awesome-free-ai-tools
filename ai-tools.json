@@ -1,0 +1,246 @@
+{
+  "name": "Awesome Free AI Tools",
+  "count": 30,
+  "tools": [
+    {
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com",
+      "category": "chat",
+      "description": "General AI assistant for writing, coding, research and everyday questions.",
+      "free": "Free tier",
+      "best_for": "All-round chat, image generation and Canvas editing"
+    },
+    {
+      "name": "Gemini",
+      "url": "https://gemini.google.com",
+      "category": "chat",
+      "description": "Google AI assistant for writing, research and Google apps, with image generation.",
+      "free": "Free with a Google account",
+      "best_for": "Research, Gmail and Docs, and image generation"
+    },
+    {
+      "name": "Claude",
+      "url": "https://claude.ai",
+      "category": "chat",
+      "description": "AI assistant known for clear writing, long documents and careful reasoning.",
+      "free": "Free tier",
+      "best_for": "Long writing, summaries and code quality"
+    },
+    {
+      "name": "DeepSeek",
+      "url": "https://deepseek.com",
+      "category": "chat",
+      "description": "Open-weight AI chat with strong reasoning and code help.",
+      "free": "Free chat",
+      "best_for": "Reasoning, maths and code, at no cost"
+    },
+    {
+      "name": "Microsoft Copilot",
+      "url": "https://copilot.microsoft.com",
+      "category": "chat",
+      "description": "Free AI assistant with chat, web search and image generation.",
+      "free": "Free tier",
+      "best_for": "Quick chat and image generation in the browser"
+    },
+    {
+      "name": "Le Chat",
+      "url": "https://chat.mistral.ai",
+      "category": "chat",
+      "description": "Mistral AI assistant with fast answers, web search and image generation.",
+      "free": "Free tier",
+      "best_for": "Fast chat and web search"
+    },
+    {
+      "name": "Meta AI",
+      "url": "https://meta.ai",
+      "category": "chat",
+      "description": "Meta AI assistant for chat, questions and image generation.",
+      "free": "Free tier",
+      "best_for": "Everyday chat and social image ideas"
+    },
+    {
+      "name": "Qwen Chat",
+      "url": "https://chat.qwen.ai",
+      "category": "chat",
+      "description": "Alibaba Qwen chat assistant for writing, coding and questions.",
+      "free": "Free tier",
+      "best_for": "Chat and code help without a paid plan"
+    },
+    {
+      "name": "Grammarly",
+      "url": "https://grammarly.com",
+      "category": "writing",
+      "description": "Grammar, spelling and tone checks for writing.",
+      "free": "Free plan",
+      "best_for": "Everyday grammar and clarity"
+    },
+    {
+      "name": "QuillBot",
+      "url": "https://quillbot.com",
+      "category": "writing",
+      "description": "Paraphrasing, grammar and summarising for students and writers.",
+      "free": "Free plan",
+      "best_for": "Rewriting and summarising"
+    },
+    {
+      "name": "DeepL Translate",
+      "url": "https://deepl.com",
+      "category": "writing",
+      "description": "High-quality translation for documents and short text.",
+      "free": "Free tier",
+      "best_for": "Accurate translation"
+    },
+    {
+      "name": "Google Translate",
+      "url": "https://translate.google.com",
+      "category": "writing",
+      "description": "Free translation across many languages, including camera and voice input.",
+      "free": "Free",
+      "best_for": "Quick translation in any language"
+    },
+    {
+      "name": "Leonardo AI",
+      "url": "https://leonardo.ai",
+      "category": "image",
+      "description": "AI image generation for art, posters and product images.",
+      "free": "Free daily credits",
+      "best_for": "High-quality AI images"
+    },
+    {
+      "name": "Craiyon",
+      "url": "https://craiyon.com",
+      "category": "image",
+      "description": "Simple AI image generator, no account needed.",
+      "free": "Free, no signup",
+      "best_for": "Quick, fun image ideas"
+    },
+    {
+      "name": "Bing Image Creator",
+      "url": "https://bing.com/images/create",
+      "category": "image",
+      "description": "AI image generation from text prompts, powered by DALL-E.",
+      "free": "Free with a Microsoft account",
+      "best_for": "Free AI images from a prompt"
+    },
+    {
+      "name": "Canva Magic Studio",
+      "url": "https://canva.com",
+      "category": "image",
+      "description": "Design tool with AI image, text and background tools built in.",
+      "free": "Free plan",
+      "best_for": "Social posts, posters and presentations"
+    },
+    {
+      "name": "Photopea",
+      "url": "https://photopea.com",
+      "category": "image",
+      "description": "Full Photoshop-style image editor that runs in the browser.",
+      "free": "Free, no signup",
+      "best_for": "Free photo editing without installing anything"
+    },
+    {
+      "name": "Remove.bg",
+      "url": "https://remove.bg",
+      "category": "image",
+      "description": "Remove the background from a photo in one click.",
+      "free": "Free previews",
+      "best_for": "Clean product and profile photos"
+    },
+    {
+      "name": "CapCut",
+      "url": "https://capcut.com",
+      "category": "video",
+      "description": "Full video editor with auto-captions, on desktop and mobile.",
+      "free": "Free plan",
+      "best_for": "Everyday video editing and reels"
+    },
+    {
+      "name": "Runway",
+      "url": "https://runway.com",
+      "category": "video",
+      "description": "AI video generation and editing tools for creators.",
+      "free": "Free credits",
+      "best_for": "AI video clips and editing"
+    },
+    {
+      "name": "Google Flow",
+      "url": "https://labs.google/fx/tools/flow",
+      "category": "video",
+      "description": "Google AI filmmaking tool for generating video clips from prompts.",
+      "free": "Free daily credits",
+      "best_for": "AI video from a text prompt"
+    },
+    {
+      "name": "ElevenLabs",
+      "url": "https://elevenlabs.io",
+      "category": "audio",
+      "description": "Realistic AI voices for narration, dubbing and audiobooks.",
+      "free": "Free monthly characters",
+      "best_for": "Voiceovers and narration"
+    },
+    {
+      "name": "Suno",
+      "url": "https://suno.com",
+      "category": "audio",
+      "description": "Generate songs and music from a text prompt.",
+      "free": "Free daily credits",
+      "best_for": "Quick songs and background music"
+    },
+    {
+      "name": "GitHub Copilot",
+      "url": "https://github.com/features/copilot",
+      "category": "coding",
+      "description": "AI code completions inside your editor.",
+      "free": "Free tier",
+      "best_for": "Coding help in VS Code and other editors"
+    },
+    {
+      "name": "Cursor",
+      "url": "https://cursor.com",
+      "category": "coding",
+      "description": "AI-first code editor with chat and code generation built in.",
+      "free": "Free tier",
+      "best_for": "Building and editing code with AI"
+    },
+    {
+      "name": "Replit",
+      "url": "https://replit.com",
+      "category": "coding",
+      "description": "Code, run and host projects in the browser, with AI help.",
+      "free": "Free plan",
+      "best_for": "Learning to code and quick prototypes"
+    },
+    {
+      "name": "Gemini Code Assist",
+      "url": "https://developers.google.com/gemini-code-assist",
+      "category": "coding",
+      "description": "Google AI coding assistant for completions, chat and code review.",
+      "free": "Free tier",
+      "best_for": "Free coding help in your editor"
+    },
+    {
+      "name": "NotebookLM",
+      "url": "https://notebooklm.google.com",
+      "category": "research",
+      "description": "Google research tool that turns your sources into summaries and Audio Overviews.",
+      "free": "Free with a Google account",
+      "best_for": "Studying and research from your own documents"
+    },
+    {
+      "name": "Perplexity",
+      "url": "https://perplexity.ai",
+      "category": "research",
+      "description": "AI search that answers with sources and citations.",
+      "free": "Free tier",
+      "best_for": "Research with cited sources"
+    },
+    {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co",
+      "category": "research",
+      "description": "Open platform to try thousands of free and open AI models.",
+      "free": "Free to browse and try models",
+      "best_for": "Trying open models and finding datasets"
+    }
+  ]
+}
