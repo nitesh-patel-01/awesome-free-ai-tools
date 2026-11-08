@@ -54,6 +54,8 @@ Free limits change often. Check the tool's own pricing page before you rely on i
 | [CapCut](https://capcut.com) | Full video editor with auto-captions, on desktop and mobile | Free plan | Everyday video editing and reels |
 | [Runway](https://runway.com) | AI video generation and editing tools for creators | Free credits | AI video clips and editing |
 | [Google Flow](https://labs.google/fx/tools/flow) | Google AI filmmaking tool for generating video clips from prompts | Free daily credits | AI video from a text prompt |
+| [Cyanvid](https://cyanvid.com/?utm_source=nitesh-patel-01-awesome-free-ai-tools&utm_medium=directory&utm_campaign=backlinks) | AI video generator from text or images; credit quotes before generate | Free credits | Text or image to video |
+| [Barz Studio](https://barzvideo.com/?utm_source=nitesh-patel-01-awesome-free-ai-tools&utm_medium=directory&utm_campaign=backlinks) | Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM | Free | Rap lyric videos and short-form captions |
 
 ## Audio and Music
 
