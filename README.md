@@ -1,6 +1,6 @@
 # Awesome Free AI Tools
 
-30 free AI tools, in one place. Every tool here has a genuine free tier or free plan. No tool asks for a card just to try it.
+31 free AI tools, in one place. Every tool here has a genuine free tier or free plan. No tool asks for a card just to try it.
 
 Free limits change often. Check the tool's own pricing page before you rely on it for important work. Free usually means a daily cap, a lighter model, or a watermark. It is great for everyday work and learning. Do not put private or client data into a free AI tool unless you have checked its privacy settings.
 
@@ -70,6 +70,7 @@ Free limits change often. Check the tool's own pricing page before you rely on i
 | [Cursor](https://cursor.com) | AI-first code editor with chat and code generation built in | Free tier | Building and editing code with AI |
 | [Replit](https://replit.com) | Code, run and host projects in the browser, with AI help | Free plan | Learning to code and quick prototypes |
 | [Gemini Code Assist](https://developers.google.com/gemini-code-assist) | Google AI coding assistant for completions, chat and code review | Free tier | Free coding help in your editor |
+| [agent-qa](https://vostride.com) | Open source natural-language web, Android and iOS QA with memidex memory, reviewable self-improvement and run evidence | $0 product fee for FSL-1.1-ALv2-permitted use; model and infrastructure costs separate | Repeatable web and mobile QA |
 
 ## Research
 
