@@ -78,6 +78,7 @@ Free limits change often. Check the tool's own pricing page before you rely on i
 | [NotebookLM](https://notebooklm.google.com) | Google research tool that turns your sources into summaries and Audio Overviews | Free with a Google account | Studying and research from your own documents |
 | [Perplexity](https://perplexity.ai) | AI search that answers with sources and citations | Free tier | Research with cited sources |
 | [Hugging Face](https://huggingface.co) | Open platform to try thousands of free and open AI models | Free to browse and try models | Trying open models and finding datasets |
+| [JournalCompass](https://journalcompass.com) | Free bilingual journal finder: search 43,499 SCI/SSCI journals by CAS zone, impact factor, review time and APC, with an AI journal matcher | Free | Finding the right journal to submit to |
 
 ## How to contribute
 

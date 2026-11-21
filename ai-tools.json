@@ -1,6 +1,6 @@
 {
   "name": "Awesome Free AI Tools",
-  "count": 30,
+  "count": 31,
   "tools": [
     {
       "name": "ChatGPT",
@@ -241,6 +241,14 @@
       "description": "Open platform to try thousands of free and open AI models.",
       "free": "Free to browse and try models",
       "best_for": "Trying open models and finding datasets"
+    },
+    {
+      "name": "JournalCompass",
+      "url": "https://journalcompass.com",
+      "category": "research",
+      "description": "Free bilingual journal finder: search 43,499 SCI/SSCI journals by CAS zone, impact factor, review time and APC, with an AI journal matcher.",
+      "free": "Free",
+      "best_for": "Finding the right journal to submit to"
     }
   ]
 }
